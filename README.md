@@ -21,3 +21,9 @@ A simple path to address these challenges would be to make a close analog of off
 ===
 
 Useful experience can be derived from a major remote-only company, gitlab.
+
+=== 
+
+## Pro-s of teleworking
+
+greener: electricity, transport
