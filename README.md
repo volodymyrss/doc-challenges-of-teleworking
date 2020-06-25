@@ -27,3 +27,16 @@ Useful experience can be derived from a major remote-only company, gitlab.
 ## Pro-s of teleworking
 
 greener: electricity, transport
+
+===
+
+## Solutions with the experience learned
+
+what is missing in teleworking is *random unsoliticed interactions*
+
+proposed solution:
+
+* contiue teleworking most of the time, using the online tools
+* facilitate and ensure mixed online/in-person meetings
+* maximize random unsoliticed interactions (?) by aligning presense with Presence Announcement Formulaire
+
